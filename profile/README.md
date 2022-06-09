@@ -1,14 +1,228 @@
-| Plugins | State | API | Downloads Total | Downloads |
-| :-----: | :---: | :-: | :-------------: | :-------: |
-| [Track](https://github.com/nhanaz-pm-pl/Track) | [![State](https://poggit.pmmp.io/shield.state/Track)](https://poggit.pmmp.io/p/Track) | [![API](https://poggit.pmmp.io/shield.api/Track)](https://poggit.pmmp.io/p/Track) | [![Downloads Total](https://poggit.pmmp.io/shield.dl.total/Track)](https://poggit.pmmp.io/p/Track) | [![Downloads](https://poggit.pmmp.io/shield.dl/Track)](https://poggit.pmmp.io/p/Track) |
-| [FertilizerParticles](https://github.com/nhanaz-pm-pl/FertilizerParticles) | [![State](https://poggit.pmmp.io/shield.state/FertilizerParticles)](https://poggit.pmmp.io/p/FertilizerParticles) | [![API](https://poggit.pmmp.io/shield.api/FertilizerParticles)](https://poggit.pmmp.io/p/FertilizerParticles) | [![Downloads Total](https://poggit.pmmp.io/shield.dl.total/FertilizerParticles)](https://poggit.pmmp.io/p/FertilizerParticles) | [![Downloads](https://poggit.pmmp.io/shield.dl/FertilizerParticles)](https://poggit.pmmp.io/p/FertilizerParticles) |
-| [CropGrowth](https://github.com/nhanaz-pm-pl/CropGrowth) | [![State](https://poggit.pmmp.io/shield.state/CropGrowth)](https://poggit.pmmp.io/p/CropGrowth) | [![API](https://poggit.pmmp.io/shield.api/CropGrowth)](https://poggit.pmmp.io/p/CropGrowth) | [![Downloads Total](https://poggit.pmmp.io/shield.dl.total/CropGrowth)](https://poggit.pmmp.io/p/CropGrowth) | [![Downloads](https://poggit.pmmp.io/shield.dl/CropGrowth)](https://poggit.pmmp.io/p/CropGrowth) |
-| [CustomJoinSound](https://github.com/nhanaz-pm-pl/CustomJoinSound) | [![State](https://poggit.pmmp.io/shield.state/CustomJoinSound)](https://poggit.pmmp.io/p/CustomJoinSound) | [![API](https://poggit.pmmp.io/shield.api/CustomJoinSound)](https://poggit.pmmp.io/p/CustomJoinSound) | [![Downloads Total](https://poggit.pmmp.io/shield.dl.total/CustomJoinSound)](https://poggit.pmmp.io/p/CustomJoinSound) | [![Downloads](https://poggit.pmmp.io/shield.dl/CustomJoinSound)](https://poggit.pmmp.io/p/CustomJoinSound) |
-| [KeepInventory](https://github.com/nhanaz-pm-pl/KeepInventory) | [![State](https://poggit.pmmp.io/shield.state/KeepInventory)](https://poggit.pmmp.io/p/KeepInventory) | [![API](https://poggit.pmmp.io/shield.api/KeepInventory)](https://poggit.pmmp.io/p/KeepInventory) | [![Downloads Total](https://poggit.pmmp.io/shield.dl.total/KeepInventory)](https://poggit.pmmp.io/p/KeepInventory) | [![Downloads](https://poggit.pmmp.io/shield.dl/KeepInventory)](https://poggit.pmmp.io/p/KeepInventory) |
-| [AntiFallDamage](https://github.com/nhanaz-pm-pl/AntiFallDamage) | [![State](https://poggit.pmmp.io/shield.state/AntiFallDamage)](https://poggit.pmmp.io/p/AntiFallDamage) | [![API](https://poggit.pmmp.io/shield.api/AntiFallDamage)](https://poggit.pmmp.io/p/AntiFallDamage) | [![Downloads Total](https://poggit.pmmp.io/shield.dl.total/AntiFallDamage)](https://poggit.pmmp.io/p/AntiFallDamage) | [![Downloads](https://poggit.pmmp.io/shield.dl/AntiFallDamage)](https://poggit.pmmp.io/p/AntiFallDamage) |
-| [OpList](https://github.com/nhanaz-pm-pl/OpList) | [![State](https://poggit.pmmp.io/shield.state/OpList)](https://poggit.pmmp.io/p/OpList) | [![API](https://poggit.pmmp.io/shield.api/OpList)](https://poggit.pmmp.io/p/OpList) | [![Downloads Total](https://poggit.pmmp.io/shield.dl.total/OpList)](https://poggit.pmmp.io/p/OpList) | [![Downloads](https://poggit.pmmp.io/shield.dl/OpList)](https://poggit.pmmp.io/p/OpList) |
-| [DataCleaning](https://github.com/nhanaz-pm-pl/DataCleaning) | [![State](https://poggit.pmmp.io/shield.state/DataCleaning)](https://poggit.pmmp.io/p/DataCleaning) | [![API](https://poggit.pmmp.io/shield.api/DataCleaning)](https://poggit.pmmp.io/p/DataCleaning) | [![Downloads Total](https://poggit.pmmp.io/shield.dl.total/DataCleaning)](https://poggit.pmmp.io/p/DataCleaning) | [![Downloads](https://poggit.pmmp.io/shield.dl/DataCleaning)](https://poggit.pmmp.io/p/DataCleaning) |
-| [AntiExplosions](https://github.com/nhanaz-pm-pl/AntiExplosions) | [![State](https://poggit.pmmp.io/shield.state/AntiExplosions)](https://poggit.pmmp.io/p/AntiExplosions) | [![API](https://poggit.pmmp.io/shield.api/AntiExplosions)](https://poggit.pmmp.io/p/AntiExplosions) | [![Downloads Total](https://poggit.pmmp.io/shield.dl.total/AntiExplosions)](https://poggit.pmmp.io/p/AntiExplosions) | [![Downloads](https://poggit.pmmp.io/shield.dl/AntiExplosions)](https://poggit.pmmp.io/p/AntiExplosions) |
-| [DevilMode](https://github.com/nhanaz-pm-pl/DevilMode) | [![State](https://poggit.pmmp.io/shield.state/DevilMode)](https://poggit.pmmp.io/p/DevilMode) | [![API](https://poggit.pmmp.io/shield.api/DevilMode)](https://poggit.pmmp.io/p/DevilMode) | [![Downloads Total](https://poggit.pmmp.io/shield.dl.total/DevilMode)](https://poggit.pmmp.io/p/DevilMode) | [![Downloads](https://poggit.pmmp.io/shield.dl/DevilMode)](https://poggit.pmmp.io/p/DevilMode) | 
-| [HealthLimit](https://github.com/nhanaz-pm-pl/HealthLimit) | [![State](https://poggit.pmmp.io/shield.state/HealthLimit)](https://poggit.pmmp.io/p/HealthLimit) | [![API](https://poggit.pmmp.io/shield.api/HealthLimit)](https://poggit.pmmp.io/p/HealthLimit) | [![Downloads Total](https://poggit.pmmp.io/shield.dl.total/HealthLimit)](https://poggit.pmmp.io/p/HealthLimit) | [![Downloads](https://poggit.pmmp.io/shield.dl/HealthLimit)](https://poggit.pmmp.io/p/HealthLimit) | 
-| [AdvancedRules](https://github.com/nhanaz-pm-pl/AdvancedRules) | [![State](https://poggit.pmmp.io/shield.state/AdvancedRules)](https://poggit.pmmp.io/p/AdvancedRules) | [![API](https://poggit.pmmp.io/shield.api/AdvancedRules)](https://poggit.pmmp.io/p/AdvancedRules) | [![Downloads Total](https://poggit.pmmp.io/shield.dl.total/AdvancedRules)](https://poggit.pmmp.io/p/AdvancedRules) | [![Downloads](https://poggit.pmmp.io/shield.dl/AdvancedRules)](https://poggit.pmmp.io/p/AdvancedRules) |
+<h2>
+  <a href="https://github.com/nhanaz-pm-pl/Track">
+    <img align="left" src="https://github.com/nhanaz-pm-pl/Track/blob/master/icon.png" alt="Logo" width="80" height="80">
+    Track
+  </a>
+</h2>
+<p>A plugin that allows staff to track the commands players.</p>
+<p>
+  <a href="https://poggit.pmmp.io/p/Track">
+    <img src="https://poggit.pmmp.io/shield.state/Track" alt="State">
+    <img src="https://poggit.pmmp.io/shield.api/Track" alt="API">
+    <img src="https://poggit.pmmp.io/shield.dl.total/Track" alt="Downloads Total">
+    <img src="https://poggit.pmmp.io/shield.dl/Track" alt="Downloads">
+  </a>
+  <a href="https://poggit.pmmp.io/ci/nhanaz-pm-pl/Track/Track">
+    <img src="https://poggit.pmmp.io/ci.shield/nhanaz-pm-pl/Track/Track" alt="Poggit-CI">
+  </a>
+</p>
+
+-----
+
+<h2>
+	<a href="https://github.com/nhanaz-pm-pl/CropGrowth">
+		<img align="left" src="https://github.com/nhanaz-pm-pl/CropGrowth/blob/master/icon.png" alt="Logo" width="80" height="80">
+		CropGrowth
+	</a>
+</h2>
+<p>Show particles when using bone meal on crops.</p>
+<p>
+	<a href="https://poggit.pmmp.io/p/CropGrowth">
+		<img src="https://poggit.pmmp.io/shield.state/CropGrowth" alt="State">
+		<img src="https://poggit.pmmp.io/shield.api/CropGrowth" alt="API">
+		<img src="https://poggit.pmmp.io/shield.dl.total/CropGrowth" alt="Downloads Total">
+		<img src="https://poggit.pmmp.io/shield.dl/CropGrowth" alt="Downloads">
+	</a>
+	<a href="https://poggit.pmmp.io/ci/nhanaz-pm-pl/CropGrowth/CropGrowth">
+		<img src="https://poggit.pmmp.io/ci.shield/nhanaz-pm-pl/CropGrowth/CropGrowth" alt="Poggit-CI">
+	</a>
+</p>
+
+-----
+
+<h2>
+	<a href="https://github.com/nhanaz-pm-pl/CustomJoinSound">
+		<img align="left" src="https://github.com/nhanaz-pm-pl/CustomJoinSound/blob/master/icon.png" alt="Logo" width="80" height="80">
+		CustomJoinSound
+	</a>
+</h2>
+<p>You should hear "Welcome to the server!" when join server.</p>
+<p>
+	<a href="https://poggit.pmmp.io/p/CustomJoinSound">
+		<img src="https://poggit.pmmp.io/shield.state/CustomJoinSound" alt="State">
+		<img src="https://poggit.pmmp.io/shield.api/CustomJoinSound" alt="API">
+		<img src="https://poggit.pmmp.io/shield.dl.total/CustomJoinSound" alt="Downloads Total">
+		<img src="https://poggit.pmmp.io/shield.dl/CustomJoinSound" alt="Downloads">
+	</a>
+	<a href="https://poggit.pmmp.io/ci/nhanaz-pm-pl/CustomJoinSound/CustomJoinSound">
+		<img src="https://poggit.pmmp.io/ci.shield/nhanaz-pm-pl/CustomJoinSound/CustomJoinSound" alt="Poggit-CI">
+	</a>
+</p>
+
+-----
+
+<h2>
+	<a href="https://github.com/nhanaz-pm-pl/KeepInventory">
+		<img align="left" src="https://github.com/nhanaz-pm-pl/KeepInventory/blob/master/icon.png" alt="Logo" width="80" height="80">
+		KeepInventory
+	</a>
+</h2>
+<p>Prevents players from losing items on death.</p>
+<p>
+	<a href="https://poggit.pmmp.io/p/KeepInventory">
+		<img src="https://poggit.pmmp.io/shield.state/KeepInventory" alt="State">
+		<img src="https://poggit.pmmp.io/shield.api/KeepInventory" alt="API">
+		<img src="https://poggit.pmmp.io/shield.dl.total/KeepInventory" alt="Downloads Total">
+		<img src="https://poggit.pmmp.io/shield.dl/KeepInventory" alt="Downloads">
+	</a>
+	<a href="https://poggit.pmmp.io/ci/nhanaz-pm-pl/KeepInventory/KeepInventory">
+		<img src="https://poggit.pmmp.io/ci.shield/nhanaz-pm-pl/KeepInventory/KeepInventory" alt="Poggit-CI">
+	</a>
+</p>
+
+-----
+
+<h2>
+	<a href="https://github.com/nhanaz-pm-pl/AntiFallDamage">
+		<img align="left" src="https://github.com/nhanaz-pm-pl/AntiFallDamage/blob/master/icon.png" alt="Logo" width="80" height="80">
+		AntiFallDamage
+	</a>
+</h2>
+<p>Prevent fall damage.</p>
+<p>
+	<a href="https://poggit.pmmp.io/p/AntiFallDamage">
+		<img src="https://poggit.pmmp.io/shield.state/AntiFallDamage" alt="State">
+		<img src="https://poggit.pmmp.io/shield.api/AntiFallDamage" alt="API">
+		<img src="https://poggit.pmmp.io/shield.dl.total/AntiFallDamage" alt="Downloads Total">
+		<img src="https://poggit.pmmp.io/shield.dl/AntiFallDamage" alt="Downloads">
+	</a>
+	<a href="https://poggit.pmmp.io/ci/nhanaz-pm-pl/AntiFallDamage/AntiFallDamage">
+		<img src="https://poggit.pmmp.io/ci.shield/nhanaz-pm-pl/AntiFallDamage/AntiFallDamage" alt="Poggit-CI">
+	</a>
+</p>
+
+-----
+
+<h2>
+	<a href="https://github.com/nhanaz-pm-pl/OpList">
+		<img align="left" src="https://github.com/nhanaz-pm-pl/OpList/blob/master/icon.png" alt="Logo" width="80" height="80">
+		OpList
+	</a>
+</h2>
+<p>Show list of operators.</p>
+<p>
+	<a href="https://poggit.pmmp.io/p/OpList">
+		<img src="https://poggit.pmmp.io/shield.state/OpList" alt="State">
+		<img src="https://poggit.pmmp.io/shield.api/OpList" alt="API">
+		<img src="https://poggit.pmmp.io/shield.dl.total/OpList" alt="Downloads Total">
+		<img src="https://poggit.pmmp.io/shield.dl/OpList" alt="Downloads">
+	</a>
+	<a href="https://poggit.pmmp.io/ci/nhanaz-pm-pl/OpList/OpList">
+		<img src="https://poggit.pmmp.io/ci.shield/nhanaz-pm-pl/OpList/OpList" alt="Poggit-CI">
+	</a>
+</p>
+
+-----
+
+<h2>
+	<a href="https://github.com/nhanaz-pm-pl/DataCleaning">
+		<img align="left" src="https://github.com/nhanaz-pm-pl/DataCleaning/blob/master/icon.png" alt="Logo" width="80" height="80">
+		DataCleaning
+	</a>
+</h2>
+<p>Clean up unnecessary data inside plugin_data folder.</p>
+<p>
+	<a href="https://poggit.pmmp.io/p/DataCleaning">
+		<img src="https://poggit.pmmp.io/shield.state/DataCleaning" alt="State">
+		<img src="https://poggit.pmmp.io/shield.api/DataCleaning" alt="API">
+		<img src="https://poggit.pmmp.io/shield.dl.total/DataCleaning" alt="Downloads Total">
+		<img src="https://poggit.pmmp.io/shield.dl/DataCleaning" alt="Downloads">
+	</a>
+	<a href="https://poggit.pmmp.io/ci/nhanaz-pm-pl/DataCleaning/DataCleaning">
+		<img src="https://poggit.pmmp.io/ci.shield/nhanaz-pm-pl/DataCleaning/DataCleaning" alt="Poggit-CI">
+	</a>
+</p>
+
+-----
+
+<h2>
+	<a href="https://github.com/nhanaz-pm-pl/AntiExplosions">
+		<img align="left" src="https://github.com/nhanaz-pm-pl/AntiExplosions/blob/master/icon.png" alt="Logo" width="80" height="80">
+		AntiExplosions
+	</a>
+</h2>
+<p>Prevent explosions from destroying blocks.</p>
+<p>
+	<a href="https://poggit.pmmp.io/p/AntiExplosions">
+		<img src="https://poggit.pmmp.io/shield.state/AntiExplosions" alt="State">
+		<img src="https://poggit.pmmp.io/shield.api/AntiExplosions" alt="API">
+		<img src="https://poggit.pmmp.io/shield.dl.total/AntiExplosions" alt="Downloads Total">
+		<img src="https://poggit.pmmp.io/shield.dl/AntiExplosions" alt="Downloads">
+	</a>
+	<a href="https://poggit.pmmp.io/ci/nhanaz-pm-pl/AntiExplosions/AntiExplosions">
+		<img src="https://poggit.pmmp.io/ci.shield/nhanaz-pm-pl/AntiExplosions/AntiExplosions" alt="Poggit-CI">
+	</a>
+</p>
+
+-----
+
+<h2>
+	<a href="https://github.com/nhanaz-pm-pl/DevilMode">
+		<img align="left" src="https://github.com/nhanaz-pm-pl/DevilMode/blob/master/icon.png" alt="Logo" width="80" height="80">
+		DevilMode
+	</a>
+</h2>
+<p>Players will not take damage when Devil Mode is enabled.</p>
+<p>
+	<a href="https://poggit.pmmp.io/p/DevilMode">
+		<img src="https://poggit.pmmp.io/shield.state/DevilMode" alt="State">
+		<img src="https://poggit.pmmp.io/shield.api/DevilMode" alt="API">
+		<img src="https://poggit.pmmp.io/shield.dl.total/DevilMode" alt="Downloads Total">
+		<img src="https://poggit.pmmp.io/shield.dl/DevilMode" alt="Downloads">
+	</a>
+	<a href="https://poggit.pmmp.io/ci/nhanaz-pm-pl/DevilMode/DevilMode">
+		<img src="https://poggit.pmmp.io/ci.shield/nhanaz-pm-pl/DevilMode/DevilMode" alt="Poggit-CI">
+	</a>
+</p>
+
+-----
+
+<h2>
+	<a href="https://github.com/nhanaz-pm-pl/HealthLimit">
+		<img align="left" src="https://github.com/nhanaz-pm-pl/HealthLimit/blob/master/icon.png" alt="Logo" width="80" height="80">
+		HealthLimit
+	</a>
+</h2>
+<p>Make your server harder (or not) by limiting players' health</p>
+<p>
+	<a href="https://poggit.pmmp.io/p/HealthLimit">
+		<img src="https://poggit.pmmp.io/shield.state/HealthLimit" alt="State">
+		<img src="https://poggit.pmmp.io/shield.api/HealthLimit" alt="API">
+		<img src="https://poggit.pmmp.io/shield.dl.total/HealthLimit" alt="Downloads Total">
+		<img src="https://poggit.pmmp.io/shield.dl/HealthLimit" alt="Downloads">
+	</a>
+	<a href="https://poggit.pmmp.io/ci/nhanaz-pm-pl/HealthLimit/HealthLimit">
+		<img src="https://poggit.pmmp.io/ci.shield/nhanaz-pm-pl/HealthLimit/HealthLimit" alt="Poggit-CI">
+	</a>
+</p>
+
+-----
+
+<h2>
+	<a href="https://github.com/nhanaz-pm-pl/AdvancedRules">
+		<img align="left" src="https://github.com/nhanaz-pm-pl/AdvancedRules/blob/master/icon.png" alt="Logo" width="80" height="80">
+		AdvancedRules
+	</a>
+</h2>
+<p>Get players who join your server for the first time to accept the server rules with AdvancedRules.</p>
+<p>
+	<a href="https://poggit.pmmp.io/p/AdvancedRules">
+		<img src="https://poggit.pmmp.io/shield.state/AdvancedRules" alt="State">
+		<img src="https://poggit.pmmp.io/shield.api/AdvancedRules" alt="API">
+		<img src="https://poggit.pmmp.io/shield.dl.total/AdvancedRules" alt="Downloads Total">
+		<img src="https://poggit.pmmp.io/shield.dl/AdvancedRules" alt="Downloads">
+	</a>
+	<a href="https://poggit.pmmp.io/ci/nhanaz-pm-pl/AdvancedRules/AdvancedRules">
+		<img src="https://poggit.pmmp.io/ci.shield/nhanaz-pm-pl/AdvancedRules/AdvancedRules" alt="Poggit-CI">
+	</a>
+</p>
