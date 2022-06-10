@@ -226,3 +226,24 @@
 		<img src="https://poggit.pmmp.io/ci.shield/nhanaz-pm-pl/AdvancedRules/AdvancedRules" alt="Poggit-CI">
 	</a>
 </p>
+
+-----
+
+<h2>
+	<a href="https://github.com/nhanaz-pm-pl/AntiServerStop">
+		<img align="left" src="https://github.com/nhanaz-pm-pl/AntiServerStop/blob/master/icon.png" alt="Logo" width="80" height="80">
+		AntiServerStop
+	</a>
+</h2>
+<p>The operator won't be able to stop your server if they don't have the password!</p>
+<p>
+	<a href="https://poggit.pmmp.io/p/AntiServerStop">
+		<img src="https://poggit.pmmp.io/shield.state/AntiServerStop" alt="State">
+		<img src="https://poggit.pmmp.io/shield.api/AntiServerStop" alt="API">
+		<img src="https://poggit.pmmp.io/shield.dl.total/AntiServerStop" alt="Downloads Total">
+		<img src="https://poggit.pmmp.io/shield.dl/AntiServerStop" alt="Downloads">
+	</a>
+	<a href="https://poggit.pmmp.io/ci/nhanaz-pm-pl/AntiServerStop/AntiServerStop">
+		<img src="https://poggit.pmmp.io/ci.shield/nhanaz-pm-pl/AntiServerStop/AntiServerStop" alt="Poggit-CI">
+	</a>
+</p>
