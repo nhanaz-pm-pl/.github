@@ -247,3 +247,24 @@
 		<img src="https://poggit.pmmp.io/ci.shield/nhanaz-pm-pl/AntiServerStop/AntiServerStop" alt="Poggit-CI">
 	</a>
 </p>
+
+-----
+
+<h2>
+	<a href="https://github.com/nhanaz-pm-pl/KeepExp">
+		<img align="left" src="https://github.com/nhanaz-pm-pl/KeepExp/blob/master/icon.png" alt="Logo" width="80" height="80">
+		KeepExp
+	</a>
+</h2>
+<p>Prevents players from losing experience on death.</p>
+<p>
+	<a href="https://poggit.pmmp.io/p/KeepExp">
+		<img src="https://poggit.pmmp.io/shield.state/KeepExp" alt="State">
+		<img src="https://poggit.pmmp.io/shield.api/KeepExp" alt="API">
+		<img src="https://poggit.pmmp.io/shield.dl.total/KeepExp" alt="Downloads Total">
+		<img src="https://poggit.pmmp.io/shield.dl/KeepExp" alt="Downloads">
+	</a>
+	<a href="https://poggit.pmmp.io/ci/nhanaz-pm-pl/KeepExp/KeepExp">
+		<img src="https://poggit.pmmp.io/ci.shield/nhanaz-pm-pl/KeepExp/KeepExp" alt="Poggit-CI">
+	</a>
+</p>
