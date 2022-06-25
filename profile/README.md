@@ -193,7 +193,7 @@
 		HealthLimit
 	</a>
 </h2>
-<p>Make your server harder (or not) by limiting players' health</p>
+<p>Make your server harder (or not) by limiting players' health.</p>
 <p>
 	<a href="https://poggit.pmmp.io/p/HealthLimit">
 		<img src="https://poggit.pmmp.io/shield.state/HealthLimit" alt="State">
@@ -266,5 +266,26 @@
 	</a>
 	<a href="https://poggit.pmmp.io/ci/nhanaz-pm-pl/KeepExp/KeepExp">
 		<img src="https://poggit.pmmp.io/ci.shield/nhanaz-pm-pl/KeepExp/KeepExp" alt="Poggit-CI">
+	</a>
+</p>
+
+-----
+
+<h2>
+	<a href="https://github.com/NhanAZ/EmojiAttack">
+		<img align="left" src="https://github.com/NhanAZ/EmojiAttack/blob/master/icon.png" alt="Logo" width="80" height="80">
+		EmojiAttack
+	</a>
+</h2>
+<p>An emoji attack makes your server more vibrant. The suffixes of texts sent to players will be random emojis!</p>
+<p>
+	<a href="https://poggit.pmmp.io/p/EmojiAttack">
+		<img src="https://poggit.pmmp.io/shield.state/EmojiAttack" alt="State">
+		<img src="https://poggit.pmmp.io/shield.api/EmojiAttack" alt="API">
+		<img src="https://poggit.pmmp.io/shield.dl.total/EmojiAttack" alt="Downloads Total">
+		<img src="https://poggit.pmmp.io/shield.dl/EmojiAttack" alt="Downloads">
+	</a>
+	<a href="https://poggit.pmmp.io/ci/NhanAZ/EmojiAttack/EmojiAttack">
+		<img src="https://poggit.pmmp.io/ci.shield/NhanAZ/EmojiAttack/EmojiAttack" alt="Poggit-CI">
 	</a>
 </p>
