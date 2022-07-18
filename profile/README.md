@@ -268,3 +268,24 @@
 		<img src="https://poggit.pmmp.io/ci.shield/nhanaz-pm-pl/KeepExp/KeepExp" alt="Poggit-CI">
 	</a>
 </p>
+
+-----
+
+<h2>
+	<a href="https://github.com/nhanaz-pm-pl/GuardianJoin">
+		<img align="left" src="https://github.com/nhanaz-pm-pl/GuardianJoin/blob/master/icon.png" alt="Logo" width="80" height="80">
+		GuardianJoin
+	</a>
+</h2>
+<p>Show Guardian Curse effect when player joins server.</p>
+<p>
+	<a href="https://poggit.pmmp.io/p/GuardianJoin">
+		<img src="https://poggit.pmmp.io/shield.state/GuardianJoin" alt="State">
+		<img src="https://poggit.pmmp.io/shield.api/GuardianJoin" alt="API">
+		<img src="https://poggit.pmmp.io/shield.dl.total/GuardianJoin" alt="Downloads Total">
+		<img src="https://poggit.pmmp.io/shield.dl/GuardianJoin" alt="Downloads">
+	</a>
+	<a href="https://poggit.pmmp.io/ci/nhanaz-pm-pl/GuardianJoin/GuardianJoin">
+		<img src="https://poggit.pmmp.io/ci.shield/nhanaz-pm-pl/GuardianJoin/GuardianJoin" alt="Poggit-CI">
+	</a>
+</p>
