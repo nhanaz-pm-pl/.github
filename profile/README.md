@@ -310,3 +310,24 @@
 		<img src="https://poggit.pmmp.io/ci.shield/nhanaz-pm-pl/StealSkin/StealSkin" alt="Poggit-CI">
 	</a>
 </p>
+
+-----
+
+<h2>
+	<a href="https://github.com/nhanaz-pm-pl/BetterCancel">
+		<img align="left" src="https://github.com/nhanaz-pm-pl/BetterCancel/blob/master/icon.png" alt="Logo" width="80" height="80">
+		BetterCancel
+	</a>
+</h2>
+<p>BlockBreakEvent and BlockPlaceEvent is better when canceled!</p>
+<p>
+	<a href="https://poggit.pmmp.io/p/BetterCancel">
+		<img src="https://poggit.pmmp.io/shield.state/BetterCancel" alt="State">
+		<img src="https://poggit.pmmp.io/shield.api/BetterCancel" alt="API">
+		<img src="https://poggit.pmmp.io/shield.dl.total/BetterCancel" alt="Downloads Total">
+		<img src="https://poggit.pmmp.io/shield.dl/BetterCancel" alt="Downloads">
+	</a>
+	<a href="https://poggit.pmmp.io/ci/nhanaz-pm-pl/BetterCancel/BetterCancel">
+		<img src="https://poggit.pmmp.io/ci.shield/nhanaz-pm-pl/BetterCancel/BetterCancel" alt="Poggit-CI">
+	</a>
+</p>
