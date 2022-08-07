@@ -293,27 +293,6 @@
 -----
 
 <h2>
-	<a href="https://github.com/nhanaz-pm-pl/StealSkin">
-		<img align="left" src="https://github.com/nhanaz-pm-pl/StealSkin/blob/master/icon.png" alt="Logo" width="80" height="80">
-		StealSkin
-	</a>
-</h2>
-<p>Steal someone's skin.</p>
-<p>
-	<a href="https://poggit.pmmp.io/p/StealSkin">
-		<img src="https://poggit.pmmp.io/shield.state/StealSkin" alt="State">
-		<img src="https://poggit.pmmp.io/shield.api/StealSkin" alt="API">
-		<img src="https://poggit.pmmp.io/shield.dl.total/StealSkin" alt="Downloads Total">
-		<img src="https://poggit.pmmp.io/shield.dl/StealSkin" alt="Downloads">
-	</a>
-	<a href="https://poggit.pmmp.io/ci/nhanaz-pm-pl/StealSkin/StealSkin">
-		<img src="https://poggit.pmmp.io/ci.shield/nhanaz-pm-pl/StealSkin/StealSkin" alt="Poggit-CI">
-	</a>
-</p>
-
------
-
-<h2>
 	<a href="https://github.com/nhanaz-pm-pl/BetterCancel">
 		<img align="left" src="https://github.com/nhanaz-pm-pl/BetterCancel/blob/master/icon.png" alt="Logo" width="80" height="80">
 		BetterCancel
