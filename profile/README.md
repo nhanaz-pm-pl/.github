@@ -310,3 +310,24 @@
 		<img src="https://poggit.pmmp.io/ci.shield/nhanaz-pm-pl/BetterCancel/BetterCancel" alt="Poggit-CI">
 	</a>
 </p>
+
+-----
+
+<h2>
+	<a href="https://github.com/nhanaz-pm-pl/ItemSender">
+		<img align="left" src="https://github.com/nhanaz-pm-pl/ItemSender/blob/master/icon.png" alt="Logo" width="80" height="80">
+		ItemSender
+	</a>
+</h2>
+<p>Sending the item in hand to someone.</p>
+<p>
+	<a href="https://poggit.pmmp.io/p/ItemSender">
+		<img src="https://poggit.pmmp.io/shield.state/ItemSender" alt="State">
+		<img src="https://poggit.pmmp.io/shield.api/ItemSender" alt="API">
+		<img src="https://poggit.pmmp.io/shield.dl.total/ItemSender" alt="Downloads Total">
+		<img src="https://poggit.pmmp.io/shield.dl/ItemSender" alt="Downloads">
+	</a>
+	<a href="https://poggit.pmmp.io/ci/nhanaz-pm-pl/ItemSender/ItemSender">
+		<img src="https://poggit.pmmp.io/ci.shield/nhanaz-pm-pl/ItemSender/ItemSender" alt="Poggit-CI">
+	</a>
+</p>
