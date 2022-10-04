@@ -361,7 +361,7 @@
 		Calculator
 	</a>
 </h2>
-<p>Show preview rules book when a player first joins the server.</p>
+<p>The plugin allows to execute math operations in the server or console.</p>
 <p>
 	<a href="https://poggit.pmmp.io/p/Calculator">
 		<img src="https://poggit.pmmp.io/shield.state/Calculator" alt="State">
