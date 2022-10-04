@@ -331,3 +331,45 @@
 		<img src="https://poggit.pmmp.io/ci.shield/nhanaz-pm-pl/ItemSender/ItemSender" alt="Poggit-CI">
 	</a>
 </p>
+
+-----
+
+<h2>
+	<a href="https://github.com/nhanaz-pm-pl/RulesBook">
+		<img align="left" src="https://github.com/nhanaz-pm-pl/RulesBook/blob/master/icon.png" alt="Logo" width="80" height="80">
+		RulesBook
+	</a>
+</h2>
+<p>Show preview rules book when a player first joins the server.</p>
+<p>
+	<a href="https://poggit.pmmp.io/p/RulesBook">
+		<img src="https://poggit.pmmp.io/shield.state/RulesBook" alt="State">
+		<img src="https://poggit.pmmp.io/shield.api/RulesBook" alt="API">
+		<img src="https://poggit.pmmp.io/shield.dl.total/RulesBook" alt="Downloads Total">
+		<img src="https://poggit.pmmp.io/shield.dl/RulesBook" alt="Downloads">
+	</a>
+	<a href="https://poggit.pmmp.io/ci/nhanaz-pm-pl/RulesBook/RulesBook">
+		<img src="https://poggit.pmmp.io/ci.shield/nhanaz-pm-pl/RulesBook/RulesBook" alt="Poggit-CI">
+	</a>
+</p>
+
+-----
+
+<h2>
+	<a href="https://github.com/nhanaz-pm-pl/Calculator">
+		<img align="left" src="https://github.com/nhanaz-pm-pl/Calculator/blob/master/icon.png" alt="Logo" width="80" height="80">
+		Calculator
+	</a>
+</h2>
+<p>Show preview rules book when a player first joins the server.</p>
+<p>
+	<a href="https://poggit.pmmp.io/p/Calculator">
+		<img src="https://poggit.pmmp.io/shield.state/Calculator" alt="State">
+		<img src="https://poggit.pmmp.io/shield.api/Calculator" alt="API">
+		<img src="https://poggit.pmmp.io/shield.dl.total/Calculator" alt="Downloads Total">
+		<img src="https://poggit.pmmp.io/shield.dl/Calculator" alt="Downloads">
+	</a>
+	<a href="https://poggit.pmmp.io/ci/nhanaz-pm-pl/Calculator/Calculator">
+		<img src="https://poggit.pmmp.io/ci.shield/nhanaz-pm-pl/Calculator/Calculator" alt="Poggit-CI">
+	</a>
+</p>
